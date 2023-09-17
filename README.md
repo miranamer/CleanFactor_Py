@@ -24,4 +24,6 @@ https://github.com/miranamer/CleanFactor_Py/assets/91673777/ff563aa3-aa1d-4d5b-b
   <li>Bring Dependent Global Vars</li>
   <li>Query All Files In Codebase For Dependent Code</li>
   <li>Allow It To Work For Other Languages (C++, JS, C#)</li>
+  <li>Allow You To Merge Refactored Code To Main File</li>
+  <li>Somehow Connect With Git To Allow Instantaneous Merge To Main Branch</li>
 </ul>
