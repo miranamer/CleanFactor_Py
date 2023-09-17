@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://github.com/miranamer/CleanFactor_Py/assets/91673777/3902ecd2-110d-4a3e-a50c-005552646fd7' alt='CleanFactor_Logo' height='500px'>
+  <img src='https://github.com/miranamer/CleanFactor_Py/assets/91673777/db104706-bed3-4e9c-83de-ddcff9784424' alt='CleanFactor_Logo' height='500px'>
 </p>
 
 <h1>What Is CleanFactor?</h1>
@@ -11,14 +11,15 @@ function they want to refactor and keeps your repo clutter free whilst also not 
 <h1>Diagram Explanation:</h1>
 
 
-![ClearFactor_Diagram](https://github.com/miranamer/CleanFactor_Py/assets/91673777/dc230e89-2108-4dbb-aebe-2ee0c3b14274)
+![ClearFactor_Diagram](https://github.com/miranamer/CleanFactor_Py/assets/91673777/f35c46f4-b499-45ee-b9ef-9e054875b6ff)
 
 
 <h1>Demo Video:</h1>
 
 
+https://github.com/miranamer/CleanFactor_Py/assets/91673777/af9826ee-ffb3-4cff-9904-a98d2d1f5b45
 
-https://github.com/miranamer/CleanFactor_Py/assets/91673777/ff563aa3-aa1d-4d5b-bcce-1e2fcbaa6d55
+
 
 
 <h1>Future Features</h1>
