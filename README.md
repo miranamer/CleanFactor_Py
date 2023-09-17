@@ -4,7 +4,7 @@
 <p>CleanFactor (CF) allows you to make clean code refactoring easier by isolating
 the function you want to refactor along with all the dependent functions. This allows you to edit and refactor the function(s) in an
 isolated sandbox environment where the code does not affect the main branch. This prevents users from having to create multiple branches for each
-function they want to refactor and keeps your repo clutter free.</p>
+function they want to refactor and keeps your repo clutter free whilst also not breaking every function within your codebase. CleanFactor makes refactoring and testing exponentially easier.</p>
 
 <h1>Diagram Explanation:</h1>
 
