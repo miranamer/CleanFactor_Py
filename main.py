@@ -65,7 +65,12 @@ def main() -> str:
 
     allNecessaryCode = ''.join(new_res)
 
+    file2 = open("sandbox.txt","w")
+    file2.truncate(0) #?clear the file
+    file2.write(allNecessaryCode)
+    file2.close()
+
     return allNecessaryCode
 
 if __name__ == "__main__":
-    print(main())
+    main()
