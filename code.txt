@@ -1,0 +1,14 @@
+def f1(name: str, age: int) -> int:
+  print('hello')
+  return 0
+
+def f2():
+  return f1()
+
+def f34():
+  myVar = f1(name, 100)
+  return myVar
+
+def someOuterFunc():
+  f34()
+  return 100+2;
