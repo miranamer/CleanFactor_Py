@@ -1,4 +1,6 @@
-# CleanFactor
+<p align='center'>
+  <img src='https://github.com/miranamer/CleanFactor_Py/assets/91673777/3902ecd2-110d-4a3e-a50c-005552646fd7' alt='CleanFactor_Logo' height='500px'>
+</p>
 
 <h1>What Is CleanFactor?</h1>
 <p>CleanFactor (CF) allows you to make clean code refactoring easier by isolating
